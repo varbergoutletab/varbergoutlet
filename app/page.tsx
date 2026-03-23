@@ -63,9 +63,21 @@ export default function Page() {
       <header className="sticky top-0 z-50 border-b border-slate-200 bg-white/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div>
-            <div className="text-xl font-bold tracking-tight text-emerald-700">
-              Varberg Outlet AB
-            </div>
+            <div className="flex items-center gap-3">
+  <img
+    src="/logo.png"
+    alt="Varberg Outlet AB"
+    className="h-12 w-auto"
+  />
+  <div>
+    <div className="text-lg font-bold text-emerald-700">
+      Varberg Outlet AB
+    </div>
+    <div className="text-xs text-slate-500">
+      Grossist för livsmedel i Sverige
+    </div>
+  </div>
+</div>
             <div className="text-sm text-slate-500">
               Grossist för livsmedel i Sverige
             </div>
@@ -101,9 +113,11 @@ export default function Page() {
               Professionell livsmedelsgrossist
             </div>
 
-            <h1 className="mt-6 text-4xl font-bold leading-tight sm:text-5xl lg:text-6xl">
-              Grossist för livsmedel med snabb service och pålitliga leveranser
-            </h1>
+            <img
+  src="/logo.png"
+  alt="logo"
+  className="mb-6 h-24 w-auto"
+/>
 
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">
               Varberg Outlet AB erbjuder ett brett sortiment av livsmedel till
