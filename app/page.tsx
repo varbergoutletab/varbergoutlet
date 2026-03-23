@@ -59,28 +59,28 @@ export default function Page() {
     },
     {
       name: "Olivolja",
-      price: "89 kr",
+      price: "150 kr",
       desc: "Passar storkök, restauranger och professionella kunder.",
       image:
         "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1200&q=80",
     },
     {
       name: "Pommes",
-      price: "59 kr",
+      price: "85 kr",
       desc: "Populära frysvaror för snabb service och hög efterfrågan.",
       image:
         "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?auto=format&fit=crop&w=1200&q=80",
     },
     {
       name: "Paprika",
-      price: "32 kr",
+      price: "70 kr",
       desc: "Färgglada grönsaker av hög kvalitet för daglig användning.",
       image:
         "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?auto=format&fit=crop&w=1200&q=80",
     },
     {
       name: "Sallad",
-      price: "24 kr",
+      price: "40 kr",
       desc: "Fräscha salladsprodukter för restaurang och catering.",
       image:
         "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80",
