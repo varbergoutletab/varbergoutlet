@@ -45,7 +45,7 @@ export default function Page() {
   const products = [
     {
       name: "Tomater",
-      price: "29 kr",
+      price: "60 kr",
       desc: "Färska kvalitetsprodukter för restauranger och butiker.",
       image:
         "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=1200&q=80",
